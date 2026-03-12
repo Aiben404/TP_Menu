@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Snowman'
-description 'Snowman ESX Teleport Menu'
-version '1.0.0'
+description 'ESX Teleport Menu'
+version '1.2.0'
 
 shared_scripts {
     '@es_extended/imports.lua',
