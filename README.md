@@ -1,4 +1,4 @@
-# Snowman TP Menu — ESX Teleport Menu
+# TP Menu — ESX Teleport Menu
 
 A FiveM ESX teleport menu with a sleek dark theme.
 Black background · Neon green accents · Bold typography · Smooth animations.
